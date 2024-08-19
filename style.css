@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: rgb(155, 65, 155);
+}
+
+body{
+    background-color: #ffb6de;
+}
+
+#logo{
+            width: 300px;
+            height: 200px;
+            display: block;
+            margin: auto;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
